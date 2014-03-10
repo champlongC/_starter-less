@@ -1,4 +1,10 @@
-_starter-less
+Web starter less
 =============
 
-Starter kit for web dev 
+Starter kit for web dev
+
++ Asset folder :
+    + font
+    + js
+    + less
+
